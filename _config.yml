@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/foto-urna.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -54,11 +54,11 @@ email: albinomath@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Matheus Albino
+    bio: Economista e mestre em demografia. Tem interesse em história econômica e das populações, dados e arquivos.  Atuação voltada à educação e cultura.
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/foto-urna.png
+    twitter: albinomatheus
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
