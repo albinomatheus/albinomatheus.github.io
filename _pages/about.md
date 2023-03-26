@@ -5,9 +5,9 @@ permalink: /
 subtitle: Economista | Mestre em Demografia
 
 profile:
-  align: right
-  image: foto-urna.png
-  image_circular: true # crops the image to make it circular
+  align: 
+  image: 
+  image_circular:  # crops the image to make it circular
   address: 
 
 news: true  # includes a list of news items
