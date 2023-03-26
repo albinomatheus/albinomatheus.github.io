@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: sobre
 permalink: /
 subtitle: Economista | Mestre em Demografia
 
