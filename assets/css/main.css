@@ -159,6 +159,11 @@ blockquote {
   text-align: center;
 }
 
+.evidence {
+  background-image: linear-gradient(to bottom, rgba(255, 228, 0, 0.5), rgba(255, 228, 0, 0.5));
+  color: var(--global-theme-color);
+}
+
 .caption {
   font-size: 0.875rem;
   margin-top: 0.75rem;
