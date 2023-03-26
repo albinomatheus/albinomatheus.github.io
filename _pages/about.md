@@ -15,6 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
- <img src="foto-matheus.png" alt="Matheus Albino"></img>
+![Matheus Albino](https://albinomath.github.io/assets/img/foto-matheus.png "a title")
 
 Economista nascido em Campinas-SP, mestre e doutorando em Demografia pela Unicamp. Bacharel em Economia Empresarial e Controladoria pela USP. Tem interesse por pesquisas na área de história econômica e demográfica do Estado de São Paulo, mortalidade e desigualdades em saúde. Representante da sociedade civil no Conselho Municipal de Política Cultural de Campinas.
