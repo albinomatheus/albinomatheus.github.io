@@ -1,4 +1,4 @@
-- title: Informações Gerais
+- title:
   type: map
   contents:
     - name: Nome
@@ -7,15 +7,39 @@
 - title: Formação
   type: time_table
   contents:
-    - title: Doutorado em Demografia (em andamento)
-      institution: Universidade Estadual de Campinas -- UNICAMP
-      year: 1905
+    - title: Doutorado em Demografia
+      institution: Universidade Estadual de Campinas - Unicamp
+      year: 2020
       description:
-        - Dinâmica da mortalidade e saúde no Estado de São Paulo, 1900‐1969. Agência financiadora -- CNPq.
-        - Orientadora Dra. Ana Silvia Volpi Scott. Coorientadora Dra. Maisa Faleiros Cunha.
-    - title: Graduação em Ciências Contábeis (em andamento)
+        - Agência financiadora - CNPq
+        - Orientadora Dra. Ana Silvia Volpi Scott
+        - Coorientadora Dra. Maisa Faleiros Cunha
+    - title: Graduação em Ciências Contábeis
       institution: Universidade Pitágoras Unopar
       year: 2021
+    - title: Mestrado em Demografia
+      institution: Universidade Estadual de Campinas - Unicamp
+      year: 2018 - 2020
+      description:
+        - Agência financiadora - CAPES
+        - Orientadora Dra. Ana Silvia Volpi Scott
+        - Coorientadora Dra. Maisa Faleiros Cunha
+    - title: Graduação em Economia Empresarial e Controladoria
+      institution: Universidade Estadual de Campinas - Unicamp
+      year: 2013 - 2017
+      description:
+        - Agência financiadora - CAPES
+        - Orientador Dr. Renato Leite Marcondes        
+
+- title: Formação complementar
+  type: time_table
+  contents:
+    - title: Tópicos Avançados em Demografia - Avaliação de Políticas Públicas
+      institution: Universidade Estadual de Campinas - Unicamp
+      year: 2022
+      description:
+        - Curso de verão ministrado pelo Prof. Dr. Paulo de Martino Jannuzzi
+        - Aplicação do Mapa de Processos e Resultados para implementação de uma política de Cotas Étnico‐Raciais na Pós‐Graduação da Unicamp
 
 - title: Experience
   type: time_table
