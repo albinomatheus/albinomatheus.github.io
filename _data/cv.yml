@@ -86,11 +86,21 @@
       institution: Universidade Estadual de Campinas - Unicamp
       year: 2019 - 2023
       description: 
-        - Congregação do IFCH (2019)
         - Conselho Universitário da Unicamp (2019‐2023)
+        - Comissão de Planejamento Estratégico Institucional (2022)
         - Câmara de Ensino, Pesquisa e Extensão (2021)
         - Conselho de Cultura (2021)
-        - Comissão de Planejamento Estratégico Institucional (2022)       
+        - Congregação do IFCH (2019)
+
+    - title: Representante de Graduação
+      institution: Universidade de São Paulo - USP
+      year: 2019 - 2023
+      description: 
+        - Representante dos Antigos Alunos (2022)
+        - Conselho de Graduação (2016-2017)
+        - Comissão Técnica e Administrativa (2017)
+        - Conselho Gestor do Campus Ribeirão Preto (2015-2017)
+        - Comissão de Graduação (2014‐2016)   
 
 - title: Reconhecimentos e prêmios
   type: time_table
@@ -105,13 +115,13 @@
       items: 
         - Prêmio Unilever de Empreendedorismo Sustentável e Prêmio KPMG de Incentivo à Ética e Integridade com o Time Enactus FEA‐RP/USP  
 
-- title: Academic Interests
+- title: Competências técnicas
   type: nested_list
   contents:
     - title: Softwares
       items: 
         - Experiência em análise de dados envolvendo linguagem R (8 anos), Stata (3 anos) e SQL (1 ano)
-        - Experiências em linguagens para editoração como LaTeX (8 anos), Markdown (5 anos), Wordpress, Adobe InDesign
+        - Experiências com editoração de textos e criação de páginas envolvendo LaTeX (8 anos), Markdown (5 anos), Wordpress, Adobe InDesign
     - title: Idiomas
       items:
         - Português (Nativo)
