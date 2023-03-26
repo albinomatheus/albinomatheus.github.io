@@ -2,7 +2,7 @@ github_users:
   - albinomatheus
 
 github_repos:
-  - albinomatheus/fearp
-  - albinomatheus/SCMC
-  - albinomatheus/toolbox
   - albinomatheus/DM003-R
+  - albinomatheus/toolbox
+  - albinomatheus/SCMC
+  - albinomatheus/fearp
