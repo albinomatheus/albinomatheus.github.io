@@ -1,95 +1,115 @@
-- title: General Information
+- title: Informações Gerais
   type: map
   contents:
     - name: Nome
       value: Matheus Albino
-    - name: Idiomas
-      value: Inglês (intermediário), Espanhol (intermediário), Português (nativo)
 
-- title: Education
+- title: Formação
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doutorado em Demografia (em andamento)
+      institution: Universidade Estadual de Campinas -- UNICAMP
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Projeto: Dinâmica da mortalidade e saúde no Estado de São Paulo, 1900‐1969. Agência financiadora: CNPq."
+        - "Orientadora: Dra. Ana Silvia Volpi Scott. Coorientadora: Dra. Maisa Faleiros Cunha."
+    - title: Graduação em Ciências Contábeis (em andamento)
+      institution: Universidade Pitágoras Unopar
+      year: 2021
+    - title: Mestrado em Demografia
+      institution: Universidade Estadual de Campinas -- UNICAMP
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+        - "Projeto: Revelando a doença e a morte – morbidade e mortalidade em Campinas, 1875‐1900. Agência financiadora: CAPES"
+        - "Orientadora: Dra. Ana Silvia Volpi Scott. Coorientadora: Dra. Maisa Faleiros Cunha."
+    - title: Graduação em Economia Empresarial e Controladoria
+      institution: Universidade Estadual de Campinas -- UNICAMP
+      year: 2013 - 2017
+      description:
+        - "Projeto: Revelando a doença e a morte – morbidade e mortalidade em Campinas, 1875‐1900. Agência financiadora: CAPES"
+        - "Orientador: Dr. Renato Leite Marcondes."       
+        
+- title: Formação complementar
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Tópicos Avançados em Demografia: Avaliação de Políticas Públicas
+      institution: Universidade Estadual de Campinas -- UNICAMP
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - Curso de verão ministrado pelo Prof. Dr. Paulo de Martino Jannuzzi
+        - Aplicação do Mapa de Processos e Resultados para implementação de uma política de Cotas Étnico‐Raciais na Pós‐Graduação da Unicamp
+        
+- title: Experiência
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Diretor Acadêmico e Científico
+      institution: Associação Nacional de Pós‐Graduandos (ANPG)
+      year: 2022-2024
+      description:
+        - Elaboração de políticas acadêmicas e científicas.
+        - Formulação de políticas de acesso e permanência.
+        - Divulgação e difusão da Revista da ANPG.
+    - title: Fundador e Coordenador-Geral
+      institution: Associação Central de Pós‐Graduação da Unicamp (APG Unicamp)
+      year: 2019 - 2022
+      description:
+        - Entidade política de representação que visa defender os interesses de mais de 12.000 pós‐graduandos da Unicamp.
+    - title: Estágio Docente
+      institution: Universidade Estadual de Campinas – Unicamp
+      year: 2018 - 2021
+      description:
+        - "Atividades supervisionadas de docência nas disciplinas: Metodologia de Pesquisa I (2018 e 2021), Estudos de População (2021) e Estatística para Ciências Sociais (2021) para as graduações em Geografia e Ciências Sociais."
+    - title: Estagiário de Editoração
+      institution: Revista de Economia Aplicada
+      year: 2016 - 2017
+      description:
+        - "Responsável pela editoração, contato com editores, processos administrativos e preparação de manuais e relatórios de apoio ao Departamento de Economia."
 
-- title: Honors and Awards
+- title: Atividades de Representação
   type: time_table
   contents:
-    - year: 1921
+    - title: Representante da Sociedade Civil
+      institution: Conselho Municipal de Política Cultural de Campinas
+      year: 2021 - 2022
+      description:
+        - Representante da sociedade na Câmara de Memória e Patrimônio Histórico e Cultural. 
+        - Condução de reuniões abertas e encaminhamento de projetos ao Conselho.
+    - title: Representante Discente
+      institution: Universidade Estadual de Campinas – Unicamp
+      year: 2019 - 2023
+      description:
+        -  "Representante dos estudantes em reuniões com docentes e diretores em várias instâncias da gestão universitária: Congregação do IFCH (2019), Conselho Universitário da Unicamp (2019‐2023), Câmara de Ensino, Pesquisa e Extensão (2021), Conselho de Cultura (2021), Comissão de Planejamento Estratégico Institucional (2022)."
+        - Elaboração de pareceres de projetos e propostas.
+
+- title: Reconhecimentos e prêmios
+  type: time_table
+  contents:
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - "Prêmio Excelência em Economia: 3 melhores trabalhos em economia do Estado de São Paulo, Conselho Regional de Economia (CORECON‐SP)." 
+    - year: 2017
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+        - "Melhor Monografia em Economia Empresarial e Controladoria, Fundação para Pesquisa e Desenvolvimento da Administração, Contabilidade e Economia (FUNDACE)."
+   - year: 2016
+      items: 
+        - "Prêmio Unilever de Empreendedorismo Sustentável e Prêmio KPMG de Incentivo à Ética e Integridade com o Time Enactus FEA‐RP/USP, Unilever Brasil e KPMG Brasil."
+        
+- title: Competências técnicas
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Softwares
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Experiência em análise de dados envolvendo linguagem R (8 anos), Stata (3 anos) e SQL (1 ano)
+        - Experiências em linguagens para editoração como LaTeX (8 anos), Markdown (5 anos) 
+    - title: Idiomas
       items:
-        - Description 1.
-        - Description 2.
+        - Português (Nativo)
+        - Inglês (Intermediate speaker)
+        - Espanhol (Nível intermediário)
 
-- title: Other Interests
+- title: Associações Profissionais
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Conselho Regional de Economia de São Paulo (CORECON‐SP)
+    - International Union for the Scientific Study of Population (IUSSP)
+    - Asociación Latinoamericana de Población (ALAP)
