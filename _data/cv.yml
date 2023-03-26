@@ -25,10 +25,9 @@
         - Orientadora Dra. Ana Silvia Volpi Scott
         - Coorientadora Dra. Maisa Faleiros Cunha
     - title: Graduação em Economia Empresarial e Controladoria
-      institution: Universidade Estadual de Campinas - Unicamp
+      institution: Universidade de São Paulo - USP
       year: 2013 - 2017
       description:
-        - Agência financiadora - CAPES
         - Orientador Dr. Renato Leite Marcondes        
 
 - title: Formação complementar
@@ -41,70 +40,87 @@
         - Curso de verão ministrado pelo Prof. Dr. Paulo de Martino Jannuzzi
         - Aplicação do Mapa de Processos e Resultados para implementação de uma política de Cotas Étnico‐Raciais na Pós‐Graduação da Unicamp
 
-- title: Experience
+- title: Experiência
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Diretor Acadêmico e Científico
+      institution: Associação Nacional de Pós‐Graduandos (ANPG)
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Elaboração de políticas acadêmicas e científicas
+        - Formulação de políticas de acesso e permanência
+        - Divulgação e difusão da Revista da ANPG
+
+    - title: Fundador e Coordenador-Geral
+      institution: Associação Central de Pós‐Graduação da Unicamp (APG Unicamp)
+      year: 2019 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Entidade de representação que visa defender os interesses de mais de 12.000 pós‐graduandos da Unicamp
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Estágio Docente
+      institution: Universidade Estadual de Campinas - Unicamp
+      year: 2018 - 2021
       description:
+        - Metodologia de Pesquisa I (2018 e 2021)
+        - Estudos de População (2021)
+        - Estatística para Ciências Sociais (2021)     
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Estagiário de Editoração
+      institution: Revista Economia Aplicada
+      year: 2016 - 2017
+      description:
+        - Editoração e contato com editores
+        - Processos administrativos e preparação de manuais
+        - Relatórios de apoio ao Departamento de Economia
 
-- title: Open Source Projects
+- title: Atividades de Representação
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Representante da Sociedade Civil
+      institution: Conselho Municipal de Política Cultural de Campinas
+      year: 2021 - 2022
+      description: 
+        - Câmara de Memória e Patrimônio Histórico e Cultural
 
-- title: Honors and Awards
+    - title: Representante de Pós-Graduação
+      institution: Universidade Estadual de Campinas - Unicamp
+      year: 2019 - 2023
+      description: 
+        - Congregação do IFCH (2019)
+        - Conselho Universitário da Unicamp (2019‐2023)
+        - Câmara de Ensino, Pesquisa e Extensão (2021)
+        - Conselho de Cultura (2021)
+        - Comissão de Planejamento Estratégico Institucional (2022)       
+
+- title: Reconhecimentos e prêmios
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Prêmio Excelência em Economia, 3 melhores trabalhos em economia do Estado de São Paulo, Conselho Regional de Economia (CORECON‐SP)
+    - year: 2017
       items: 
-        - Max Planck Medal
+        - Melhor Monografia em Economia Empresarial e Controladoria, Fundação para Pesquisa e Desenvolvimento da Administração, Contabilidade e Economia (FUNDACE)
+    - year: 2016
+      items: 
+        - Prêmio Unilever de Empreendedorismo Sustentável e Prêmio KPMG de Incentivo à Ética e Integridade com o Time Enactus FEA‐RP/USP  
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Softwares
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Experiência em análise de dados envolvendo linguagem R (8 anos), Stata (3 anos) e SQL (1 ano)
+        - Experiências em linguagens para editoração como LaTeX (8 anos), Markdown (5 anos), Wordpress, Adobe InDesign
+    - title: Idiomas
       items:
-        - Description 1.
-        - Description 2.
+        - Português (Nativo)
+        - Inglês (Intermediate speaker)
+        - Espanhol (Nível intermediário)
 
-- title: Other Interests
+- title: Associações Profissionais
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Conselho Regional de Economia de São Paulo (CORECON‐SP)
+    - International Union for the Scientific Study of Population (IUSSP)
+    - Asociación Latinoamericana de Población (ALAP)
