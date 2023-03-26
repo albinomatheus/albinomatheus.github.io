@@ -6,8 +6,8 @@ subtitle: Economista | Mestre em Demografia
 
 profile:
   align: right
-  image: foto-urna.png
-  image_circular: true # crops the image to make it circular
+  image: foto-urna-1.png
+  image_circular: false # crops the image to make it circular
   address: 
 
 news: true  # includes a list of news items
