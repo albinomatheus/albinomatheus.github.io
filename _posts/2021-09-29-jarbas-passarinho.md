@@ -7,28 +7,10 @@ date: 2021-09-29
 
 authors:
   - name: Matheus Albino
-
-_styles: >
-.breaker {
-    height: 1px
-    margin: 6rem auto
-    width: 100%
-
-    &:before
-        content: "• • •"
-        width: 100%
-        text-align: center
-        display: block
-        color: $gama
-        letter-spacing: 4px
-        position: relative
-        top: -8px}
 ---
 
 ![Jarbas Passarinho](https://www.matheusalbino.com/assets/images/Jarbas-Passarinho.png)
 <figcaption class="caption">Jarbas Passarinho, Ministro do Trabalho e Educação durante a ditadura Militar</figcaption>
-
-<div class="breaker"></div>
 
 O Conselho Universitário da Unicamp (Consu) revogou por unanimidade nesta terça-feira (28/09) o título de *doutor honoris causa* concedido ao ex-ministro da ditadura Jarbas Passarinho. A decisão histórica ocorreu após intenso trabalho do grupo *Unicamp pela Democracia*, composto por membros das entidades representativas de docentes, servidores técnico-administrativos e estudantes de graduação e pós-graduação.
 
