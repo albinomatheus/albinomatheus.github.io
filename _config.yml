@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+locale: "pt-BR"
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Matheus
 middle_name: 
@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords:   # add your own keywords or leave empty
 
-lang: pt # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: pt-BR # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ☕   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://albinomath.github.io # the base hostname & protocol for your site
@@ -117,10 +117,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog # blog_name will be displayed in your blog page
+blog_name: café e caderneta # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: espaço de compartilhamento de experiências e anotações 
-permalink: /blog/:year/:title/
+permalink: /blog/:title/
 
 # Pagination
 pagination:
