@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://albinomath.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://albinomath.github.io/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-03-28T03:58:24+00:00</updated><id>https://albinomath.github.io/feed.xml</id><title type="html">blank</title><subtitle>Economista | Mestre em Demografia
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://albinomath.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://albinomath.github.io/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-03-28T03:58:29+00:00</updated><id>https://albinomath.github.io/feed.xml</id><title type="html">blank</title><subtitle>Economista | Mestre em Demografia
 </subtitle><entry><title type="html">base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900</title><link href="https://albinomath.github.io/blog/SCMC/" rel="alternate" type="text/html" title="base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900" /><published>2023-03-24T00:00:00+00:00</published><updated>2023-03-24T00:00:00+00:00</updated><id>https://albinomath.github.io/blog/SCMC</id><content type="html" xml:base="https://albinomath.github.io/blog/SCMC/"><![CDATA[<p><img src="https://www.matheusalbino.com/assets/images/matricula-min.png" alt="Santa Casa" /></p>
 
 <p>Esta base de dados foi elaborada a partir do cruzamento de informações
@@ -220,289 +220,11 @@ sequenceDiagram
 </code></pre></div></div>
 
 <div class="jekyll-diagrams diagrams mermaid">
-  <svg id="mermaid-1679975920639" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1679975920639 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1679975920639 .node circle,#mermaid-1679975920639 .node ellipse,#mermaid-1679975920639 .node polygon,#mermaid-1679975920639 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1679975920639 .node.clickable{cursor:pointer}#mermaid-1679975920639 .arrowheadPath{fill:#333}#mermaid-1679975920639 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1679975920639 .edgeLabel{background-color:#e8e8e8}#mermaid-1679975920639 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1679975920639 .cluster text{fill:#333}#mermaid-1679975920639 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1679975920639 .actor{stroke:#ccf;fill:#ececff}#mermaid-1679975920639 text.actor{fill:#000;stroke:none}#mermaid-1679975920639 .actor-line{stroke:grey}#mermaid-1679975920639 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1679975920639 .messageLine0,#mermaid-1679975920639 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1679975920639 #arrowhead{fill:#333}#mermaid-1679975920639 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1679975920639 .messageText{fill:#333;stroke:none}#mermaid-1679975920639 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1679975920639 .labelText,#mermaid-1679975920639 .loopText{fill:#000;stroke:none}#mermaid-1679975920639 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1679975920639 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1679975920639 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1679975920639 .section{stroke:none;opacity:.2}#mermaid-1679975920639 .section0{fill:rgba(102,102,255,.49)}#mermaid-1679975920639 .section2{fill:#fff400}#mermaid-1679975920639 .section1,#mermaid-1679975920639 .section3{fill:#fff;opacity:.2}#mermaid-1679975920639 .sectionTitle0,#mermaid-1679975920639 .sectionTitle1,#mermaid-1679975920639 .sectionTitle2,#mermaid-1679975920639 .sectionTitle3{fill:#333}#mermaid-1679975920639 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1679975920639 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1679975920639 .grid path{stroke-width:0}#mermaid-1679975920639 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1679975920639 .task{stroke-width:2}#mermaid-1679975920639 .taskText{text-anchor:middle;font-size:11px}#mermaid-1679975920639 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1679975920639 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1679975920639 .taskText0,#mermaid-1679975920639 .taskText1,#mermaid-1679975920639 .taskText2,#mermaid-1679975920639 .taskText3{fill:#fff}#mermaid-1679975920639 .task0,#mermaid-1679975920639 .task1,#mermaid-1679975920639 .task2,#mermaid-1679975920639 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1679975920639 .taskTextOutside0,#mermaid-1679975920639 .taskTextOutside1,#mermaid-1679975920639 .taskTextOutside2,#mermaid-1679975920639 .taskTextOutside3{fill:#000}#mermaid-1679975920639 .active0,#mermaid-1679975920639 .active1,#mermaid-1679975920639 .active2,#mermaid-1679975920639 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1679975920639 .activeText0,#mermaid-1679975920639 .activeText1,#mermaid-1679975920639 .activeText2,#mermaid-1679975920639 .activeText3{fill:#000!important}#mermaid-1679975920639 .done0,#mermaid-1679975920639 .done1,#mermaid-1679975920639 .done2,#mermaid-1679975920639 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1679975920639 .doneText0,#mermaid-1679975920639 .doneText1,#mermaid-1679975920639 .doneText2,#mermaid-1679975920639 .doneText3{fill:#000!important}#mermaid-1679975920639 .crit0,#mermaid-1679975920639 .crit1,#mermaid-1679975920639 .crit2,#mermaid-1679975920639 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1679975920639 .activeCrit0,#mermaid-1679975920639 .activeCrit1,#mermaid-1679975920639 .activeCrit2,#mermaid-1679975920639 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1679975920639 .doneCrit0,#mermaid-1679975920639 .doneCrit1,#mermaid-1679975920639 .doneCrit2,#mermaid-1679975920639 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1679975920639 .activeCritText0,#mermaid-1679975920639 .activeCritText1,#mermaid-1679975920639 .activeCritText2,#mermaid-1679975920639 .activeCritText3,#mermaid-1679975920639 .doneCritText0,#mermaid-1679975920639 .doneCritText1,#mermaid-1679975920639 .doneCritText2,#mermaid-1679975920639 .doneCritText3{fill:#000!important}#mermaid-1679975920639 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1679975920639 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1679975920639 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1679975920639 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1679975920639 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1679975920639 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1679975920639 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1679975920639 #compositionEnd,#mermaid-1679975920639 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1679975920639 #aggregationEnd,#mermaid-1679975920639 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1679975920639 #dependencyEnd,#mermaid-1679975920639 #dependencyStart,#mermaid-1679975920639 #extensionEnd,#mermaid-1679975920639 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1679975920639 .branch-label,#mermaid-1679975920639 .commit-id,#mermaid-1679975920639 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1679975920639 {
+  <svg id="mermaid-1679975924222" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1679975924222 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1679975924222 .node circle,#mermaid-1679975924222 .node ellipse,#mermaid-1679975924222 .node polygon,#mermaid-1679975924222 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1679975924222 .node.clickable{cursor:pointer}#mermaid-1679975924222 .arrowheadPath{fill:#333}#mermaid-1679975924222 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1679975924222 .edgeLabel{background-color:#e8e8e8}#mermaid-1679975924222 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1679975924222 .cluster text{fill:#333}#mermaid-1679975924222 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1679975924222 .actor{stroke:#ccf;fill:#ececff}#mermaid-1679975924222 text.actor{fill:#000;stroke:none}#mermaid-1679975924222 .actor-line{stroke:grey}#mermaid-1679975924222 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1679975924222 .messageLine0,#mermaid-1679975924222 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1679975924222 #arrowhead{fill:#333}#mermaid-1679975924222 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1679975924222 .messageText{fill:#333;stroke:none}#mermaid-1679975924222 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1679975924222 .labelText,#mermaid-1679975924222 .loopText{fill:#000;stroke:none}#mermaid-1679975924222 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1679975924222 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1679975924222 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1679975924222 .section{stroke:none;opacity:.2}#mermaid-1679975924222 .section0{fill:rgba(102,102,255,.49)}#mermaid-1679975924222 .section2{fill:#fff400}#mermaid-1679975924222 .section1,#mermaid-1679975924222 .section3{fill:#fff;opacity:.2}#mermaid-1679975924222 .sectionTitle0,#mermaid-1679975924222 .sectionTitle1,#mermaid-1679975924222 .sectionTitle2,#mermaid-1679975924222 .sectionTitle3{fill:#333}#mermaid-1679975924222 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1679975924222 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1679975924222 .grid path{stroke-width:0}#mermaid-1679975924222 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1679975924222 .task{stroke-width:2}#mermaid-1679975924222 .taskText{text-anchor:middle;font-size:11px}#mermaid-1679975924222 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1679975924222 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1679975924222 .taskText0,#mermaid-1679975924222 .taskText1,#mermaid-1679975924222 .taskText2,#mermaid-1679975924222 .taskText3{fill:#fff}#mermaid-1679975924222 .task0,#mermaid-1679975924222 .task1,#mermaid-1679975924222 .task2,#mermaid-1679975924222 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1679975924222 .taskTextOutside0,#mermaid-1679975924222 .taskTextOutside1,#mermaid-1679975924222 .taskTextOutside2,#mermaid-1679975924222 .taskTextOutside3{fill:#000}#mermaid-1679975924222 .active0,#mermaid-1679975924222 .active1,#mermaid-1679975924222 .active2,#mermaid-1679975924222 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1679975924222 .activeText0,#mermaid-1679975924222 .activeText1,#mermaid-1679975924222 .activeText2,#mermaid-1679975924222 .activeText3{fill:#000!important}#mermaid-1679975924222 .done0,#mermaid-1679975924222 .done1,#mermaid-1679975924222 .done2,#mermaid-1679975924222 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1679975924222 .doneText0,#mermaid-1679975924222 .doneText1,#mermaid-1679975924222 .doneText2,#mermaid-1679975924222 .doneText3{fill:#000!important}#mermaid-1679975924222 .crit0,#mermaid-1679975924222 .crit1,#mermaid-1679975924222 .crit2,#mermaid-1679975924222 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1679975924222 .activeCrit0,#mermaid-1679975924222 .activeCrit1,#mermaid-1679975924222 .activeCrit2,#mermaid-1679975924222 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1679975924222 .doneCrit0,#mermaid-1679975924222 .doneCrit1,#mermaid-1679975924222 .doneCrit2,#mermaid-1679975924222 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1679975924222 .activeCritText0,#mermaid-1679975924222 .activeCritText1,#mermaid-1679975924222 .activeCritText2,#mermaid-1679975924222 .activeCritText3,#mermaid-1679975924222 .doneCritText0,#mermaid-1679975924222 .doneCritText1,#mermaid-1679975924222 .doneCritText2,#mermaid-1679975924222 .doneCritText3{fill:#000!important}#mermaid-1679975924222 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1679975924222 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1679975924222 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1679975924222 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1679975924222 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1679975924222 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1679975924222 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1679975924222 #compositionEnd,#mermaid-1679975924222 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1679975924222 #aggregationEnd,#mermaid-1679975924222 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1679975924222 #dependencyEnd,#mermaid-1679975924222 #dependencyStart,#mermaid-1679975924222 #extensionEnd,#mermaid-1679975924222 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1679975924222 .branch-label,#mermaid-1679975924222 .commit-id,#mermaid-1679975924222 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1679975924222 {
     color: rgb(0, 0, 0);
     font: normal normal 400 normal 16px / normal "Times New Roman";
   }</style><g></g><g><line id="actor0" x1="75" y1="5" x2="75" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><line id="actor1" x1="275" y1="5" x2="275" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><g><text x="175" y="93" class="messageText" style="text-anchor: middle;">Hello John, how are you?</text><line x1="275" y1="100" x2="75" y2="100" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="fill: none;"></line></g><g><text x="175" y="128" class="messageText" style="text-anchor: middle;">Great!</text><line x1="75" y1="135" x2="275" y2="135" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><rect x="0" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><rect x="200" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g></svg>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[an example of a blog post with diagrams]]></summary></entry><entry><title type="html">a distill-style blog post</title><link href="https://albinomath.github.io/blog/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2021-05-22T00:00:00+00:00</published><updated>2021-05-22T00:00:00+00:00</updated><id>https://albinomath.github.io/blog/distill</id><content type="html" xml:base="https://albinomath.github.io/blog/distill/"><![CDATA[<h2 id="equations">Equations</h2>
-
-<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine.
-You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>.
-If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
-
-<p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph.
-Here is an example:</p>
-
-\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]
-
-<p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p>
-
-<hr />
-
-<h2 id="citations">Citations</h2>
-
-<p>Citations are then used in the article body with the <code class="language-plaintext highlighter-rouge">&lt;d-cite&gt;</code> tag.
-The key attribute is a reference to the id provided in the bibliography.
-The key attribute can take multiple ids, separated by commas.</p>
-
-<p>The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover).
-If you have an appendix, a bibliography is automatically created and populated in it.</p>
-
-<p>Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
-However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.</p>
-
-<hr />
-
-<h2 id="footnotes">Footnotes</h2>
-
-<p>Just wrap the text you would like to show up in a footnote in a <code class="language-plaintext highlighter-rouge">&lt;d-footnote&gt;</code> tag.
-The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote></p>
-
-<hr />
-
-<h2 id="code-blocks">Code Blocks</h2>
-
-<p>Syntax highlighting is provided within <code class="language-plaintext highlighter-rouge">&lt;d-code&gt;</code> tags.
-An example of inline code snippets: <code class="language-plaintext highlighter-rouge">&lt;d-code language="html"&gt;let x = 10;&lt;/d-code&gt;</code>.
-For larger blocks of code, add a <code class="language-plaintext highlighter-rouge">block</code> attribute:</p>
-
-<d-code block="" language="javascript">
-  var x = 25;
-  function(x) {
-    return x * x;
-  }
-</d-code>
-
-<p><strong>Note:</strong> <code class="language-plaintext highlighter-rouge">&lt;d-code&gt;</code> blocks do not look good in the dark mode.
-You can always use the default code-highlight using the <code class="language-plaintext highlighter-rouge">highlight</code> liquid tag:</p>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">x</span> <span class="o">=</span> <span class="mi">25</span><span class="p">;</span>
-<span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
-  <span class="k">return</span> <span class="nx">x</span> <span class="o">*</span> <span class="nx">x</span><span class="p">;</span>
-<span class="p">}</span></code></pre></figure>
-
-<hr />
-
-<h2 id="interactive-plots">Interactive Plots</h2>
-
-<p>You can add interative plots using plotly + iframes :framed_picture:</p>
-
-<div class="l-page">
-  <iframe src="/assets/plotly/demo.html" frameborder="0" scrolling="no" height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
-</div>
-
-<p>The plot must be generated separately and saved into an HTML file.
-To generate the plot that you see above, you can use the following code snippet:</p>
-
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
-<span class="kn">import</span> <span class="n">plotly.express</span> <span class="k">as</span> <span class="n">px</span>
-<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span>
-  <span class="s">'https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv'</span>
-<span class="p">)</span>
-<span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="p">.</span><span class="nf">density_mapbox</span><span class="p">(</span>
-  <span class="n">df</span><span class="p">,</span>
-  <span class="n">lat</span><span class="o">=</span><span class="s">'Latitude'</span><span class="p">,</span>
-  <span class="n">lon</span><span class="o">=</span><span class="s">'Longitude'</span><span class="p">,</span>
-  <span class="n">z</span><span class="o">=</span><span class="s">'Magnitude'</span><span class="p">,</span>
-  <span class="n">radius</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
-  <span class="n">center</span><span class="o">=</span><span class="nf">dict</span><span class="p">(</span><span class="n">lat</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">lon</span><span class="o">=</span><span class="mi">180</span><span class="p">),</span>
-  <span class="n">zoom</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
-  <span class="n">mapbox_style</span><span class="o">=</span><span class="s">"stamen-terrain"</span><span class="p">,</span>
-<span class="p">)</span>
-<span class="n">fig</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
-<span class="n">fig</span><span class="p">.</span><span class="nf">write_html</span><span class="p">(</span><span class="s">'assets/plotly/demo.html'</span><span class="p">)</span></code></pre></figure>
-
-<hr />
-
-<h2 id="layouts">Layouts</h2>
-
-<p>The main text column is referred to as the body.
-It is the assumed layout of any direct descendants of the <code class="language-plaintext highlighter-rouge">d-article</code> element.</p>
-
-<div class="fake-img l-body">
-  <p>.l-body</p>
-</div>
-
-<p>For images you want to display a little larger, try <code class="language-plaintext highlighter-rouge">.l-page</code>:</p>
-
-<div class="fake-img l-page">
-  <p>.l-page</p>
-</div>
-
-<p>All of these have an outset variant if you want to poke out from the body text a little bit.
-For instance:</p>
-
-<div class="fake-img l-body-outset">
-  <p>.l-body-outset</p>
-</div>
-
-<div class="fake-img l-page-outset">
-  <p>.l-page-outset</p>
-</div>
-
-<p>Occasionally you’ll want to use the full browser width.
-For this, use <code class="language-plaintext highlighter-rouge">.l-screen</code>.
-You can also inset the element a little from the edge of the browser by using the inset variant.</p>
-
-<div class="fake-img l-screen">
-  <p>.l-screen</p>
-</div>
-<div class="fake-img l-screen-inset">
-  <p>.l-screen-inset</p>
-</div>
-
-<p>The final layout is for marginalia, asides, and footnotes.
-It does not interrupt the normal flow of <code class="language-plaintext highlighter-rouge">.l-body</code> sized text except on mobile screen sizes.</p>
-
-<div class="fake-img l-gutter">
-  <p>.l-gutter</p>
-</div>
-
-<hr />
-
-<h2 id="other-typography">Other Typography?</h2>
-
-<p>Emphasis, aka italics, with <em>asterisks</em> (<code class="language-plaintext highlighter-rouge">*asterisks*</code>) or <em>underscores</em> (<code class="language-plaintext highlighter-rouge">_underscores_</code>).</p>
-
-<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
-
-<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
-
-<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
-
-<ol>
-  <li>First ordered list item</li>
-  <li>Another item
-⋅⋅* Unordered sub-list.</li>
-  <li>Actual numbers don’t matter, just that it’s a number
-⋅⋅1. Ordered sub-list</li>
-  <li>And another item.</li>
-</ol>
-
-<p>⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we’ll use three here to also align the raw Markdown).</p>
-
-<p>⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p>
-
-<ul>
-  <li>Unordered list can use asterisks</li>
-  <li>Or minuses</li>
-  <li>Or pluses</li>
-</ul>
-
-<p><a href="https://www.google.com">I’m an inline-style link</a></p>
-
-<p><a href="https://www.google.com" title="Google's Homepage">I’m an inline-style link with title</a></p>
-
-<p><a href="https://www.mozilla.org">I’m a reference-style link</a></p>
-
-<p><a href="../blob/master/LICENSE">I’m a relative reference to a repository file</a></p>
-
-<p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p>
-
-<p>Or leave it empty and use the <a href="http://www.reddit.com">link text itself</a>.</p>
-
-<p>URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <a href="http://www.example.com">http://www.example.com</a> and sometimes
-example.com (but not on Github, for example).</p>
-
-<p>Some text to show that the reference links can follow later.</p>
-
-<p>Here’s our logo (hover to see the title text):</p>
-
-<p>Inline-style:
-<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
-
-<p>Reference-style:
-<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
-
-<p>Inline <code class="language-plaintext highlighter-rouge">code</code> has <code class="language-plaintext highlighter-rouge">back-ticks around</code> it.</p>
-
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
-<span class="nf">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
-</code></pre></div></div>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">s</span> <span class="o">=</span> <span class="s">"Python syntax highlighting"</span>
-<span class="k">print</span> <span class="n">s</span>
-</code></pre></div></div>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>No language indicated, so no syntax highlighting.
-But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
-</code></pre></div></div>
-
-<p>Colons can be used to align columns.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Tables</th>
-      <th style="text-align: center">Are</th>
-      <th style="text-align: right">Cool</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>col 3 is</td>
-      <td style="text-align: center">right-aligned</td>
-      <td style="text-align: right">$1600</td>
-    </tr>
-    <tr>
-      <td>col 2 is</td>
-      <td style="text-align: center">centered</td>
-      <td style="text-align: right">$12</td>
-    </tr>
-    <tr>
-      <td>zebra stripes</td>
-      <td style="text-align: center">are neat</td>
-      <td style="text-align: right">$1</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don’t need to make the
-raw Markdown line up prettily. You can also use inline Markdown.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Markdown</th>
-      <th>Less</th>
-      <th>Pretty</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><em>Still</em></td>
-      <td><code class="language-plaintext highlighter-rouge">renders</code></td>
-      <td><strong>nicely</strong></td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>Blockquotes are very handy in email to emulate reply text.
-This line is part of the same quote.</p>
-</blockquote>
-
-<p>Quote break.</p>
-
-<blockquote>
-  <p>This is a very long line that will still be quoted properly when it wraps. Oh boy let’s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote.</p>
-</blockquote>
-
-<p>Here’s a line for us to start with.</p>
-
-<p>This line is separated from the one above by two newlines, so it will be a <em>separate paragraph</em>.</p>
-
-<p>This line is also a separate paragraph, but…
-This line is only separated by a single newline, so it’s a separate line in the <em>same paragraph</em>.</p>]]></content><author><name>Albert Einstein</name></author><summary type="html"><![CDATA[an example of a distill-style blog post and main elements]]></summary></entry><entry><title type="html">a post with github metadata</title><link href="https://albinomath.github.io/blog/github-metadata/" rel="alternate" type="text/html" title="a post with github metadata" /><published>2020-09-28T21:01:00+00:00</published><updated>2020-09-28T21:01:00+00:00</updated><id>https://albinomath.github.io/blog/github-metadata</id><content type="html" xml:base="https://albinomath.github.io/blog/github-metadata/"><![CDATA[<p>A sample blog page that demonstrates the accessing of github meta data.</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[an example of a blog post with diagrams]]></summary></entry><entry><title type="html">a post with github metadata</title><link href="https://albinomath.github.io/blog/github-metadata/" rel="alternate" type="text/html" title="a post with github metadata" /><published>2020-09-28T21:01:00+00:00</published><updated>2020-09-28T21:01:00+00:00</updated><id>https://albinomath.github.io/blog/github-metadata</id><content type="html" xml:base="https://albinomath.github.io/blog/github-metadata/"><![CDATA[<p>A sample blog page that demonstrates the accessing of github meta data.</p>
 
 <h2 id="what-does-github-metadata-do">What does Github-MetaData do?</h2>
 <ul>
@@ -549,4 +271,16 @@ This line is only separated by a single newline, so it’s a separate line in th
 </div>
 
 <h1 id="additional-details">Additional Details</h1>
-<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin">jekyll-twitter-plugin</a></p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><category term="formatting" /><summary type="html"><![CDATA[an example of a blog post with twitter]]></summary></entry></feed>
+<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin">jekyll-twitter-plugin</a></p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><category term="formatting" /><summary type="html"><![CDATA[an example of a blog post with twitter]]></summary></entry><entry xml:lang="pt"><title type="html">Revelando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900</title><link href="https://albinomath.github.io/blog/revelando-a-morte/" rel="alternate" type="text/html" title="Revelando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900" /><published>2020-02-20T14:00:00+00:00</published><updated>2020-02-20T14:00:00+00:00</updated><id>https://albinomath.github.io/blog/revelando-a-morte</id><content type="html" xml:base="https://albinomath.github.io/blog/revelando-a-morte/"><![CDATA[<p>Nesta pesquisa, desenvolvida durante o mestrado em Demografia na Unicamp, investiguei aspectos da mortalidade e da morbidade da população escravizada e livre, nacional e estrangeira em Campinas no final do século XIX.</p>
+
+<p>Nesse período, a cidade experimentou intensas transformações econômicas e sociais como o crescimento do núcleo urbano, a abolição da escravidão e um grande fluxo
+imigratório, sobretudo de europeus. <span class="evidence">A partir do Registro Civil de Óbitos de Campinas e de registros de pacientes da Santa Casa de Misericórdia e do Hospital de Isolamento do Fundão, revelamos um perfil de morbidade marcado pelas doenças infecciosas, mortalidade infantil elevada e momentos de crise causados pelas epidemias de febre amarela</span>. Esse comportamento é característico de um período pré-transição demográfica e epidemiológica.</p>
+
+<p>Mostramos que a população hospitalizada foi sobretudo masculina em idade ativa e produtiva, principalmente atingida por doenças como a tuberculose e outras relacionadas à precariedade das condições de vida e de trabalho. Existiram diferenciais significativos de mortalidade por condição jurídica e nacionalidade. <span class="evidence">A população escravizada experimentou mortalidade mais elevada que a população livre. Depois de controladas as diferenças nas características da população e do perfil de morbidade, a maior parte do diferencial persistiu ao longo do tempo devido às condições de vida impostas pelo cativeiro</span>.</p>
+
+<p>Brasileiros apresentaram mortalidade hospitalar mais elevada que estrangeiros. Uma pequena parte desse diferencial se deve ao volume e estrutura etária desses dois segmentos da população. <span class="evidence">A maior parte do diferencial de mortalidade é explicada pela entrada de estrangeiros em casos menos graves e pelo fato de os estrangeiros com probabilidade de morte mais elevada não acessarem os hospitais filantrópicos</span>. Grande parte desses indivíduos morreram em casa, nas fazendas, sem assistência
+médica ou nos hospitais de isolamento, onde o tratamento foi pouco eficiente em aumentar as chances de sobrevivência dos pacientes.</p>
+
+<hr />
+
+<p>ALBINO, Matheus Alves. Revelando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900. 2020. 1 recurso online (168 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Filosofia e Ciências Humanas, Campinas - SP. Disponível em <a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/343530">http://repositorio.unicamp.br/jspui/handle/REPOSIP/343530</a></p>]]></content><author><name>albino</name></author><category term="blog" /><category term="Santa Casa de Misericórdia" /><category term="Mortalidade" /><category term="Escravidão" /><category term="Campinas" /><category term="História - Século XIX" /><summary type="html"><![CDATA[Nesta pesquisa investiguei aspectos da mortalidade e da morbidade da população escravizada e livre, nacional e estrangeira em Campinas no final do século XIX.]]></summary></entry></feed>
