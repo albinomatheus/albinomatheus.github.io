@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>a post with github metadata | Matheus  Albino</title>
+    <title>base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900 | Matheus  Albino</title>
     <meta name="author" content="Matheus  Albino">
-    <meta name="description" content="a quick run down on accessing github metadata.">
+    <meta name="description" content="Esta base de dados foi elaborada a partir do cruzamento de informações das Matrículas de Enfermos do Hospital da Misericórdia de Campinas com os Livros de Altas de Pacientes e o Assentamento de Óbitos.">
 
 
     <!-- Bootstrap & MDB -->
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%98%95&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://albinomath.github.io/blog/github-metadata/">
+    <link rel="canonical" href="https://albinomath.github.io/blog/SCMC/">
     
     <!-- Dark Mode -->
     
@@ -101,57 +101,119 @@
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">a post with github metadata</h1>
-    <p class="post-meta">28/09/2020</p>
+    <h1 class="post-title">base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900</h1>
+    <p class="post-meta">24/03/2023</p>
     <p class="post-tags">
-      <a href="//blog/2020"> <i class="fas fa-calendar fa-sm"></i> 2020 </a>
+      <a href="//blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
         ·  
-        <a href="//blog/category/sample-posts">
-          <i class="fas fa-tag fa-sm"></i> sample-posts</a>  
-          <a href="//blog/category/external-services">
-          <i class="fas fa-tag fa-sm"></i> external-services</a>  
+        <a href="//blog/tag/base-de-dados">
+          <i class="fas fa-hashtag fa-sm"></i> Base de dados</a>  
+          <a href="//blog/tag/santa-casa-de-miseric%C3%B3rdia">
+          <i class="fas fa-hashtag fa-sm"></i> Santa Casa de Misericórdia</a>  
+          <a href="//blog/tag/mortalidade">
+          <i class="fas fa-hashtag fa-sm"></i> Mortalidade</a>  
+          <a href="//blog/tag/escravid%C3%A3o">
+          <i class="fas fa-hashtag fa-sm"></i> Escravidão</a>  
+          <a href="//blog/tag/campinas">
+          <i class="fas fa-hashtag fa-sm"></i> Campinas</a>  
           
 
     </p>
   </header>
 
   <article class="post-content">
-    <p>A sample blog page that demonstrates the accessing of github meta data.</p>
+    <p><img src="https://www.matheusalbino.com/assets/images/matricula-min.png" alt="Santa Casa"></p>
 
-<h2 id="what-does-github-metadata-do">What does Github-MetaData do?</h2>
+<p>Esta base de dados foi elaborada a partir do cruzamento de informações
+das Matrículas de Enfermos do Hospital da Misericórdia de Campinas com
+os Livros de Altas de Pacientes e o Assentamento de Óbitos. Trata-se de
+um trabalho realizado no âmbito da dissertação de mestrado <a href="https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610" rel="external nofollow noopener" target="_blank"><strong>Revelando
+a doença e a morte: morbidade e mortalidade em Campinas,
+1875-1900</strong></a>.</p>
+
+<p>O cruzamento desses registros com os Livros de Altas e Óbitos foi
+realizado para cada paciente por meio da data de entrada, saída e pelo
+número de ordem atribuído nas enfermarias.</p>
+
+<p>Composta por 14.350 registros de pacientes, seu recorte temporal abrange
+desde o primeiro atendido no hospital, o escravo Manoel Xavier de
+Oliveira, em 3 de outubro de 1876 até Prudêncio Antônio, em 31 de
+dezembro de 1900. Não foram encontrados os registros de enfermos curados
+na enfermaria especial criada em 1889 para vítimas da febre amarela.
+Somente os óbitos foram identificados.</p>
+
+<p>Os livros de matrículas, altas e óbitos correspondem ao registro de
+fluxo dos indivíduos que passaram pelo hospital e aqueles que
+permaneceram internados em tratamento. Os nomes dos pacientes não foram
+levantados, mas podem ser recuperados pelo número de ordem nos livros
+originais. A série é composta por quatro volumes sob a guarda do Centro
+de Memória-Unicamp (CMU).</p>
+
+<h2 id="variáveis-disponíveis">Variáveis disponíveis</h2>
+
 <ul>
-  <li>Propagates the site.github namespace with repository metadata</li>
-  <li>Setting site variables :
-    <ul>
-      <li>site.title</li>
-      <li>site.description</li>
-      <li>site.url</li>
-      <li>site.baseurl</li>
-    </ul>
-  </li>
-  <li>Accessing the metadata - duh.</li>
-  <li>Generating edittable links.</li>
+  <li>
+<strong>sexo</strong>: Sexo do paciente</li>
+  <li>
+<strong>idade</strong>: Idade declarada</li>
+  <li>
+<strong>cor</strong>: Cor declarada</li>
+  <li>
+<strong>nac</strong>: Nacionalidade declarada</li>
+  <li>
+<strong>res</strong>: Local de residência declarado</li>
+  <li>
+<strong>mar</strong>: Estado conjugal</li>
+  <li>
+<strong>ocup</strong>: Ocupação do paciente</li>
+  <li>
+<strong>remet</strong>: Pessoa responsável que enviou o paciente para a Santa Casa</li>
+  <li>
+<strong>cat</strong>: Categoria de entrada do paciente, entre “Escravo”, “Pobre”,
+“Pensionista” e “Militar” (derivada de <strong>remet</strong>, ver Albino (2020).)</li>
+  <li>
+<strong>molestia</strong>: Causa de internação/morte principal (selecionada entre
+outras circunstanciais, ver Albino (2020).)</li>
+  <li>
+<strong>entrada</strong>: Data de entrada da enfermaria</li>
+  <li>
+<strong>saida</strong>: Data de saída da enfermaria</li>
+  <li>
+<strong>obs</strong>: Estado final do paciente na enfermaria</li>
 </ul>
 
-<h2 id="additional-reading">Additional Reading</h2>
+<h2 id="como-citar">Como citar?</h2>
+
+<ol>
+  <li>Em figuras e tabelas:
+    <ul>
+      <li><em>Dados extraídos de Albino (2020), a partir das Matrículas de Enfermos
+da Santa Casa de Misericórdia de Campinas.</em></li>
+    </ul>
+  </li>
+  <li>Nas referências bibliográficas:</li>
+</ol>
+
 <ul>
-  <li>If you’re recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md" rel="external nofollow noopener" target="_blank"> authentication</a>.</li>
-  <li>Go through this <a href="https://jekyll.github.io/github-metadata/" rel="external nofollow noopener" target="_blank">README</a> for more details on the topic.</li>
-  <li>
-<a href="https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md" rel="external nofollow noopener" target="_blank">This page</a> highlights all the feilds you can access with github-metadata.
-<br>
+  <li>ALBINO, Matheus Alves. <strong>Revelando a doença e a morte: morbidade e
+mortalidade em Campinas, 1875-1900</strong>. 2020. 1 recurso online (168 p.)
+Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto
+de Filosofia e Ciências Humanas, Campinas - SP. Disponível em:
+<a href="https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610" rel="external nofollow noopener" target="_blank">https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610</a>
 </li>
 </ul>
 
-<h2 id="example-metadata">Example MetaData</h2>
-<ul>
-  <li>Host Name :</li>
-  <li>URL :</li>
-  <li>BaseURL :</li>
-  <li>Archived :</li>
-  <li>Contributors :</li>
-</ul>
+<p><!-- <iframe src="https://www.matheusalbino.com/SCMC_DT.html" title="Base de Dados: Pacientes da Santa Casa de Misericórdia" style="position: relative; height: auto; width: 100%; border: none; margin: 40px; padding: 40px"></iframe>  --></p>
 
+<div style="position:relative; width:100%; height:0px; padding-bottom:350%;">
+    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%; border: none" src="https://www.matheusalbino.com/SCMC.html">
+    </iframe>
+</div>
+
+<!-- <object data="https://www.matheusalbino.com/SCMC_DT.html" style="position:relative; width:100%; height:0px; padding-bottom:500%">
+     <iframe src="https://www.matheusalbino.com/SCMC_DT.html" title="Base de Dados: Pacientes da Santa Casa de Misericórdia" style="position: relative; height: auto; width: 100%; border: none; margin: 40px; padding: 40px"></iframe> 
+    Error: Embedded data could not be displayed.
+</object> -->
 
   </article>
 
@@ -169,12 +231,6 @@
   
 
   <li class="my-2">
-    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/SCMC/">base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900</a>
-  </li>
-
-  
-
-  <li class="my-2">
     <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/giscus-comments/">a post with giscus comments</a>
   </li>
 
@@ -182,6 +238,12 @@
 
   <li class="my-2">
     <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/redirect/">a post with redirect</a>
+  </li>
+
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/dia-do-professor/">Dia do professor: a educação e a ciência vão recuperar nosso brilho</a>
   </li>
 
 </div>
