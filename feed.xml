@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://albinomath.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://albinomath.github.io/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-03-28T04:00:16+00:00</updated><id>https://albinomath.github.io/feed.xml</id><title type="html">blank</title><subtitle>Economista | Mestre em Demografia
-</subtitle><entry><title type="html">base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900</title><link href="https://albinomath.github.io/blog/SCMC/" rel="alternate" type="text/html" title="base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900" /><published>2023-03-24T00:00:00+00:00</published><updated>2023-03-24T00:00:00+00:00</updated><id>https://albinomath.github.io/blog/SCMC</id><content type="html" xml:base="https://albinomath.github.io/blog/SCMC/"><![CDATA[<p><img src="https://www.matheusalbino.com/assets/images/matricula-min.png" alt="Santa Casa" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://albinomath.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://albinomath.github.io/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-03-28T04:03:36+00:00</updated><id>https://albinomath.github.io/feed.xml</id><title type="html">blank</title><subtitle>Economista | Mestre em Demografia
+</subtitle><entry><title type="html">base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900</title><link href="https://albinomath.github.io/blog/SCMC/" rel="alternate" type="text/html" title="base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900" /><published>2023-03-24T00:00:00+00:00</published><updated>2023-03-24T00:00:00+00:00</updated><id>https://albinomath.github.io/blog/SCMC</id><content type="html" xml:base="https://albinomath.github.io/blog/SCMC/"><![CDATA[<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://www.matheusalbino.com/assets/images/matricula-min-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://www.matheusalbino.com/assets/images/matricula-min-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://www.matheusalbino.com/assets/images/matricula-min-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="https://www.matheusalbino.com/assets/images/matricula-min.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+<figcaption class="caption">Livro de Matrículas da Santa Casa de Misericórdia</figcaption>
 
 <p>Esta base de dados foi elaborada a partir do cruzamento de informações
 das Matrículas de Enfermos do Hospital da Misericórdia de Campinas com

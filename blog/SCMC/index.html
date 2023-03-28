@@ -122,7 +122,23 @@
   </header>
 
   <article class="post-content">
-    <p><img src="https://www.matheusalbino.com/assets/images/matricula-min.png" alt="Santa Casa"></p>
+    <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://www.matheusalbino.com/assets/images/matricula-min-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://www.matheusalbino.com/assets/images/matricula-min-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://www.matheusalbino.com/assets/images/matricula-min-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="https://www.matheusalbino.com/assets/images/matricula-min.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+<figcaption class="caption">Livro de Matrículas da Santa Casa de Misericórdia</figcaption>
 
 <p>Esta base de dados foi elaborada a partir do cruzamento de informações
 das Matrículas de Enfermos do Hospital da Misericórdia de Campinas com
