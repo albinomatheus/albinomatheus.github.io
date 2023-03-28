@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://albinomath.github.io/blog/math/</loc>
-<lastmod>2015-10-20T15:12:00+00:00</lastmod>
-</url>
-<url>
 <loc>https://albinomath.github.io/blog/revelando-a-morte/</loc>
 <lastmod>2020-02-20T14:00:00+00:00</lastmod>
 </url>
@@ -70,12 +66,6 @@
 <loc>https://albinomath.github.io/disciplinas/</loc>
 </url>
 <url>
-<loc>https://albinomath.github.io/blog/tag/formatting/</loc>
-</url>
-<url>
-<loc>https://albinomath.github.io/blog/tag/math/</loc>
-</url>
-<url>
 <loc>https://albinomath.github.io/blog/tag/santa-casa-de-miseric%C3%B3rdia/</loc>
 </url>
 <url>
@@ -89,6 +79,9 @@
 </url>
 <url>
 <loc>https://albinomath.github.io/blog/tag/hist%C3%B3ria-s%C3%A9culo-xix/</loc>
+</url>
+<url>
+<loc>https://albinomath.github.io/blog/tag/formatting/</loc>
 </url>
 <url>
 <loc>https://albinomath.github.io/blog/tag/unicamp/</loc>
@@ -121,16 +114,13 @@
 <loc>https://albinomath.github.io/blog/tag/base-de-dados/</loc>
 </url>
 <url>
-<loc>https://albinomath.github.io/blog/category/sample-posts/</loc>
-</url>
-<url>
 <loc>https://albinomath.github.io/blog/category/blog/</loc>
 </url>
 <url>
-<loc>https://albinomath.github.io/blog/category/external-services/</loc>
+<loc>https://albinomath.github.io/blog/category/sample-posts/</loc>
 </url>
 <url>
-<loc>https://albinomath.github.io/blog/2015/</loc>
+<loc>https://albinomath.github.io/blog/category/external-services/</loc>
 </url>
 <url>
 <loc>https://albinomath.github.io/blog/2020/</loc>
