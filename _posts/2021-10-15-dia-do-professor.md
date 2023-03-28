@@ -1,5 +1,5 @@
 ---
-title: "Dia do professor: a educação e a ciência vão recuperar nosso brilho"
+title: "dia do professor: a educação e a ciência vão recuperar nosso brilho"
 layout: post
 date: 2021-10-15 12:00
 image: https://www.matheusalbino.com/assets/images/Assembleia-Unicamp.jpg
