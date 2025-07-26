@@ -26,4 +26,4 @@ social: false  # includes social icons at the bottom of the page
 <img src="https://albinomath.github.io/assets/img/foto-matheus.png" alt="Matheus Albino" class="center"> 
 
 
-Economista nascido em Campinas-SP, mestre e doutorando em Demografia pela Unicamp. Bacharel em Economia Empresarial e Controladoria pela USP. Tem interesse por pesquisas na área de história econômica e demográfica do Estado de São Paulo, mortalidade e desigualdades em saúde. Representante da sociedade civil no Conselho Municipal de Política Cultural de Campinas.
+Doutor em Demografia pela Universidade Estadual de Campinas (Unicamp) e mestre em Demografia pela mesma universidade. Bacharel em Economia Empresarial e Controladoria pela Universidade de São Paulo (USP) e em Ciências Contábeis pela Unopar. Atuo como analista administrativo e financeiro, pesquisador independente e orientador em programas de pós-graduação lato sensu. Fui diretor da Associação Nacional de Pós-Graduandos (ANPG) e tenho interesse em pesquisas voltadas à área de história econômica e demográfica, correção de dados históricos de população e de mortalidade.
